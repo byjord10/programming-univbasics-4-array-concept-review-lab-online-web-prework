@@ -3,7 +3,7 @@ require 'pry'
 
 
 def find_element_index(array, value_to_find)
-array.index(0)
+array.index(value_to_find)
 end
 # scale = [3, 4,1,2,7,9,6]
 # amazing = [1]
